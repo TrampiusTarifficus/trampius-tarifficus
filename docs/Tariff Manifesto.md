@@ -44,5 +44,5 @@ We summon all brave-hearted speculators, fearless traders, meme aficionados, and
 
 Let the memes flow, the tariffs rise, and the logic perish\!
 
-**Hail TariffCoin, hail Trampius Tarifficus\!**
+
 
