@@ -87,28 +87,28 @@ Forged in the fires of Binance Smart Chain and crowned by the Emperor himself, *
 
 ## 📊 ROADMAP TO IMPERIAL GLORY
 
-### 🌅 Season I (Q1 2025) - Dawn of Empire
+### 🌅 Season I  - Dawn of Empire
 - [x] Token Launch & Liquidity Lock
 - [x] Community Formation
 - [ ] CoinGecko Listing
 - [ ] First Meme Contests
 - [ ] 1,000+ Legionnaires
 
-### ⚔️ Season II (Q2 2025) - Expansion
+### ⚔️ Season II - Expansion
 - [ ] CoinMarketCap Listing
 - [ ] First CEX Listing
 - [ ] 10,000+ Holders
 - [ ] Cross-Platform Viral Campaigns
 - [ ] Strategic Partnerships
 
-### 🏆 Season III (Q3 2025) - Great Campaigns
+### 🏆 Season III - Great Campaigns
 - [ ] Major CEX Listings
 - [ ] Imperial NFT Collection
 - [ ] Interactive Dapp/Game
 - [ ] 50,000+ Community Members
 - [ ] Mainstream Media Coverage
 
-### 👑 Season IV (Q4 2025) - Apex Glory
+### 👑 Season IV  - Apex Glory
 - [ ] Top-Tier Exchange Applications
 - [ ] Multi-Chain Expansion
 - [ ] DAO Governance Launch
